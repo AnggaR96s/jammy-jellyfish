@@ -17,7 +17,7 @@ gpgv	2.2.27-2ubuntu1
 grep	3.7-1
 gzip	1.10-4ubuntu2
 hostname	3.23ubuntu1
-init-system-helpers	1.60build1
+init-system-helpers	1.61
 libacl1:amd64	2.2.53-10ubuntu2
 libapt-pkg6.0:amd64	2.3.13
 libattr1:amd64	1:2.5.1-1
