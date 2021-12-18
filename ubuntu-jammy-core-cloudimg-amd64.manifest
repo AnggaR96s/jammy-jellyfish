@@ -12,7 +12,7 @@ diffutils	1:3.8-0ubuntu1
 dpkg	1.20.9ubuntu3
 e2fsprogs	1.46.4-1ubuntu1
 findutils	4.8.0-1ubuntu2
-gcc-11-base:amd64	11.2.0-12ubuntu1
+gcc-11-base:amd64	11.2.0-13ubuntu1
 gpgv	2.2.27-2ubuntu1
 grep	3.7-1
 gzip	1.10-4ubuntu2
@@ -35,7 +35,7 @@ libdb5.3:amd64	5.3.28+dfsg1-0.8ubuntu2
 libdebconfclient0:amd64	0.256ubuntu4
 libext2fs2:amd64	1.46.4-1ubuntu1
 libffi8:amd64	3.4.2-1ubuntu5
-libgcc-s1:amd64	11.2.0-12ubuntu1
+libgcc-s1:amd64	11.2.0-13ubuntu1
 libgcrypt20:amd64	1.9.4-3ubuntu2
 libgmp10:amd64	2:6.2.1+dfsg-1ubuntu3
 libgnutls30:amd64	3.7.2-2ubuntu1
@@ -70,7 +70,7 @@ libsepol2:amd64	3.3-1
 libsmartcols1:amd64	2.37.2-4ubuntu1
 libss2:amd64	1.46.4-1ubuntu1
 libssl3:amd64	3.0.0-1ubuntu1
-libstdc++6:amd64	11.2.0-12ubuntu1
+libstdc++6:amd64	11.2.0-13ubuntu1
 libsystemd0:amd64	249.5-2ubuntu2
 libtasn1-6:amd64	4.18.0-4
 libtinfo6:amd64	6.3-1
