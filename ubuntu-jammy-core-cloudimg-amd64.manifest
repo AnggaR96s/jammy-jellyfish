@@ -39,7 +39,7 @@ libgcc-s1:amd64	11.2.0-13ubuntu1
 libgcrypt20:amd64	1.9.4-3ubuntu2
 libgmp10:amd64	2:6.2.1+dfsg-1ubuntu3
 libgnutls30:amd64	3.7.2-2ubuntu1
-libgpg-error0:amd64	1.42-3
+libgpg-error0:amd64	1.43-1
 libgssapi-krb5-2:amd64	1.19.2-0ubuntu1
 libhogweed6:amd64	3.7.3-1build1
 libidn2-0:amd64	2.3.2-2
