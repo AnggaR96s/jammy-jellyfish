@@ -13,7 +13,7 @@ dpkg	1.20.9ubuntu3
 e2fsprogs	1.46.4-1ubuntu1
 findutils	4.8.0-1ubuntu2
 gcc-11-base:amd64	11.2.0-13ubuntu1
-gpgv	2.2.27-2ubuntu1
+gpgv	2.2.27-3ubuntu1
 grep	3.7-1
 gzip	1.10-4ubuntu2
 hostname	3.23ubuntu1
@@ -30,7 +30,7 @@ libc6:amd64	2.34-0ubuntu3
 libcap-ng0:amd64	0.7.9-2.2build2
 libcap2:amd64	1:2.44-1build2
 libcom-err2:amd64	1.46.4-1ubuntu1
-libcrypt1:amd64	1:4.4.26-1
+libcrypt1:amd64	1:4.4.27-1
 libdb5.3:amd64	5.3.28+dfsg1-0.8ubuntu2
 libdebconfclient0:amd64	0.256ubuntu4
 libext2fs2:amd64	1.46.4-1ubuntu1

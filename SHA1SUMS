@@ -1,5 +1,5 @@
-5822290e0219a27a6f72fbec2d8e23d6ae339af6 *ubuntu-jammy-core-cloudimg-amd64-root.tar.gz
-a47a2b3921fcd47cfd147cbe1b5614cbffda665e *ubuntu-jammy-core-cloudimg-arm64-root.tar.gz
-93fa87be3dfb57058f4b4c9ef676660e43ee8484 *ubuntu-jammy-core-cloudimg-armhf-root.tar.gz
-796a5addd14658394d617662e2dc5a281cb84b2b *ubuntu-jammy-core-cloudimg-ppc64el-root.tar.gz
-109f82e318616b997e857d71610774a59aaa310c *ubuntu-jammy-core-cloudimg-s390x-root.tar.gz
+081997c47082cddf9b2ae208d0ee22a04ef02276 *ubuntu-jammy-core-cloudimg-amd64-root.tar.gz
+b048e8711db6b72b0beb89eb2013a7dcd1a9e5c4 *ubuntu-jammy-core-cloudimg-arm64-root.tar.gz
+3be32cd0aae2d0eef673d10bf4c55821b833695a *ubuntu-jammy-core-cloudimg-armhf-root.tar.gz
+4f1f3e15e5e4a96e45f77b7e2529fc37f87f1ca6 *ubuntu-jammy-core-cloudimg-ppc64el-root.tar.gz
+6ac63ad500942a036602d36f9203ef9aa5453908 *ubuntu-jammy-core-cloudimg-s390x-root.tar.gz
