@@ -80,7 +80,7 @@ libudev1:amd64	249.11-0ubuntu3
 libunistring2:amd64	1.0-1
 libuuid1:amd64	2.37.2-4ubuntu3
 libxxhash0:amd64	0.8.1-1
-libzstd1:amd64	1.4.8+dfsg-3
+libzstd1:amd64	1.4.8+dfsg-3build1
 login	1:4.8.1-2ubuntu2
 logsave	1.46.5-2ubuntu1
 lsb-base	11.1.0ubuntu4
