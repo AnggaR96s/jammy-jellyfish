@@ -60,7 +60,7 @@ libpam-modules-bin	1.4.0-11ubuntu2
 libpam-runtime	1.4.0-11ubuntu2
 libpam0g:amd64	1.4.0-11ubuntu2
 libpcre2-8-0:amd64	10.39-3build1
-libpcre3:amd64	2:8.39-13build5
+libpcre3:amd64	2:8.39-13ubuntu0.22.04.1
 libprocps8:amd64	2:3.3.17-6ubuntu2
 libseccomp2:amd64	2.5.3-2ubuntu2
 libselinux1:amd64	3.3-1build2
@@ -69,7 +69,7 @@ libsemanage2:amd64	3.3-1build2
 libsepol2:amd64	3.3-1build1
 libsmartcols1:amd64	2.37.2-4ubuntu3
 libss2:amd64	1.46.5-2ubuntu1
-libssl3:amd64	3.0.2-0ubuntu1.1
+libssl3:amd64	3.0.2-0ubuntu1.2
 libstdc++6:amd64	12-20220319-1ubuntu1
 libsystemd0:amd64	249.11-0ubuntu3.1
 libtasn1-6:amd64	4.18.0-4build1
