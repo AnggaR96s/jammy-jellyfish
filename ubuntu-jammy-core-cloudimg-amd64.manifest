@@ -98,4 +98,4 @@ tar	1.34+dfsg-1build3
 ubuntu-keyring	2021.03.26
 usrmerge	25ubuntu2
 util-linux	2.37.2-4ubuntu3
-zlib1g:amd64	1:1.2.11.dfsg-2ubuntu9
+zlib1g:amd64	1:1.2.11.dfsg-2ubuntu9.1
