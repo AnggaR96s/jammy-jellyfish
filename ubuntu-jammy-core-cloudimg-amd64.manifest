@@ -38,7 +38,7 @@ libffi8:amd64	3.4.2-4
 libgcc-s1:amd64	12.1.0-2ubuntu1~22.04
 libgcrypt20:amd64	1.9.4-3ubuntu3
 libgmp10:amd64	2:6.2.1+dfsg-3ubuntu1
-libgnutls30:amd64	3.7.3-4ubuntu1.1
+libgnutls30:amd64	3.7.3-4ubuntu1.2
 libgpg-error0:amd64	1.43-3
 libgssapi-krb5-2:amd64	1.19.2-2ubuntu0.1
 libhogweed6:amd64	3.7.3-1build2
@@ -94,7 +94,7 @@ procps	2:3.3.17-6ubuntu2
 sed	4.8-1ubuntu2
 sensible-utils	0.0.17
 sysvinit-utils	3.01-1ubuntu1
-tar	1.34+dfsg-1build3
+tar	1.34+dfsg-1ubuntu0.1.22.04.1
 ubuntu-keyring	2021.03.26
 usrmerge	25ubuntu2
 util-linux	2.37.2-4ubuntu3
