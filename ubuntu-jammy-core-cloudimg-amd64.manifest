@@ -28,7 +28,7 @@ libbz2-1.0:amd64	1.0.8-5build1
 libc-bin	2.35-0ubuntu3.1
 libc6:amd64	2.35-0ubuntu3.1
 libcap-ng0:amd64	0.7.9-2.2build3
-libcap2:amd64	1:2.44-1build3
+libcap2:amd64	1:2.44-1ubuntu0.22.04.1
 libcom-err2:amd64	1.46.5-2ubuntu1.1
 libcrypt1:amd64	1:4.4.27-1
 libdb5.3:amd64	5.3.28+dfsg1-0.8ubuntu3
